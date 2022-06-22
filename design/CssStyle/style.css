@@ -117,4 +117,9 @@ color:  hsl(333, 80%, 67%);
     font-weight: 400;
     opacity: 1;
   }
-  
+  .text2{
+    margin-top: 1.5rem;
+  }
+  .text3{
+    margin-top: 3rem;
+  }
